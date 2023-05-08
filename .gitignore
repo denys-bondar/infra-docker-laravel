@@ -1,0 +1,6 @@
+/.idea
+.DS_Store
+.phpintel
+/docker/storage
+public/mix-manifest.json
+.php-cs-fixer.cache
